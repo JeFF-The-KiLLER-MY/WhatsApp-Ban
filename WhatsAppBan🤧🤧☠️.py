@@ -76,6 +76,8 @@ class WhatsAppReporter:
         features_content = """    ┏┓┏┓┳┓┳┏┓┏┳┓  ┳┓┏┓┳┓┳┓┏┓┳┓  ┏┓┓┏┏┓┏┳┓┏┓┳┳┓    
 ━━  ┗┓┃ ┣┫┃┃┃ ┃   ┣┫┣┫┃┃┃┃┣ ┃┃  ┗┓┗┫┗┓ ┃ ┣ ┃┃┃  ━━
     ┗┛┗┛┛┗┻┣┛ ┻   ┻┛┛┗┛┗┛┗┗┛┻┛  ┗┛ ┗┗┛ ┻ ┗┛┛ ┗    
+
+    -𝐌𝐨𝐝𝐢𝐟𝐢𝐞𝐝 𝐁𝐲 𝐑𝐢𝐝𝐡𝐰𝐚𝐧
                                                       
 🎁 [bold white]FEATURES YOU GET AS A [bold white]FREE USER:[/bold white]
 
