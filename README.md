@@ -17,16 +17,14 @@ git clone https://github.com/JeFF-The-KiLLER-MY/WhatsApp-Ban.git
 
 cd WhatsApp-Ban
 
-# Step 1: Create a virtual environment
-python3 -m venv venv
+# Step 1: Make sure your virtual environment is active
+source ~/WhatsApp-Ban/venv/bin/activate  
 
-# Step 2: Activate it
-source venv/bin/activate
+# Step 2: Go into the project directory
+cd ~/WhatsApp-Ban
 
-# Step 3: Install dependencies
-pip install fake-useragent
+# Step 3: Run the script
+python "WhatsAppBan🤧🤧☠️.py"
 
-# (Optional) install other dependencies too
-pip install requests rich
 
 python WhatsAppBan🤧🤧☠️.py
