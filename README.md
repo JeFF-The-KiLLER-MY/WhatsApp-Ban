@@ -16,4 +16,5 @@ IN KALI-
 python3 -m venv venv
 source venv/bin/activate
 pip install rich --break-system-packages
+pip install requests --break-system-packages
 python WhatsAppBan🤧🤧☠️.py
